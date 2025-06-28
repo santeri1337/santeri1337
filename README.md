@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, i am Santeri
 
-<!--
-**santeri1337/santeri1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 16-year old  ICT Student  
+💻 Programmer & founder of Bittisilta!  
+🌍 Finland
 
-Here are some ideas to get you started:
+I am a **Programmer** and a **CyberSec** enthusiast with a high passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/santeri1337.png)](https://tryhackme.com/p/santeri1337)
+
+
+
+## Languages and Technologies that I use
+- HTML / CSS / JavaScript  
+- C, C#, C++, LUA,  
+- WordPress & PHP  
+- MySQL & NoSQL  
+- Linux / Windows / Networks
+
+## 🏢 Company: [Bittisilta](https://github.com/bittisilta)
+
+
+- GitHub: [@santeri1337](https://github.com/santeri1337)  
+- Company: [@bittisilta](https://github.com/bittisilta)  
+- Email: *santeri@bittisilta.fi*  
+- Website: *https://bittisilta.fi*
+
+
