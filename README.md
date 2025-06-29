@@ -12,7 +12,8 @@ I am a **Programmer** and a **CyberSec** enthusiast with a high passion.
 
 ## Languages and Technologies that I use
 - HTML / CSS / JavaScript  
-- C, C#, C++, LUA,  
+- C, C#, C++
+- Python, LUA 
 - WordPress & PHP  
 - MySQL & NoSQL  
 - Linux / Windows / Networks
