@@ -1,6 +1,6 @@
 # Hello, i am Santeri
 
-🎓 16-year old  ICT Student  
+🎓 17-year old  ICT Student  
 💻 Programmer & founder of Bittisilta!  
 🌍 Finland
 
